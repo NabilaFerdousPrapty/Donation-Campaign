@@ -1,9 +1,10 @@
+import DonationCards from "../components/DonationCards";
 
 
 const Donation = () => {
     return (
         <div>
-            <h3>Donation</h3>
+            <DonationCards></DonationCards>
         </div>
     );
 };
