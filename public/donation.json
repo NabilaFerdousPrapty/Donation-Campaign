@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "picture": "https://i.ibb.co/HrGj8wk/Donation-for-education.jpg",
     "title": "Donation for Education",
     "category": "Education",
@@ -10,6 +11,7 @@
     "price": 1000
   },
   {
+    "id": 2,
     "picture": "https://i.ibb.co/rm5msHq/Support-Wildlife-Conservation.jpg",
     "title": "Support Wildlife Conservation",
     "category": "Environment",
@@ -20,6 +22,7 @@
     "price": 400
   },
   {
+    "id": 3,
     "picture": "https://i.ibb.co/6vyJT5f/Healthcare-for-All.jpg",
     "title": "Healthcare for All",
     "category": "Health",
@@ -30,6 +33,7 @@
     "price": 2000
   },
   {
+    "id": 4,
     "picture": "https://i.ibb.co/x8MvqrP/Food-for-the-Hungry.jpg",
     "title": "Food for the Hungry",
     "category": "Food",
@@ -40,6 +44,7 @@
     "price": 500
   },
   {
+    "id": 5,
     "picture": "https://i.ibb.co/xCQ2Btc/Shelter-for-Homeless.jpg",
     "title": "Shelter for Homeless",
     "category": "Social Welfare",
@@ -50,6 +55,7 @@
     "price": 1500
   },
   {
+    "id": 6,
     "picture": "https://i.ibb.co/pwHF8f3/Clean-Water-Initiative.jpg",
     "title": "Clean Water Initiative",
     "category": "Environment",
@@ -60,6 +66,7 @@
     "price": 200
   },
   {
+    "id": 7,
     "picture": "https://i.ibb.co/GQMQ0Qz/Empowerment-for-Women.jpg",
     "title": "Empowerment for Women",
     "category": "Social Welfare",
@@ -70,16 +77,18 @@
     "price": 500
   },
   {
+    "id": 8,
     "picture": "https://i.ibb.co/6w9CD08/3954.jpg",
     "title": "Emergency Relief Fund",
     "category": "Disaster Relief",
-    "category_bg": "#D2B4DE",
+    "category_bg": "#F87147",
     "card_bg": "#A9DFBF",
     "text_button_bg": "#E6B0AA",
     "description": "Provide immediate assistance to communities affected by natural disasters. Your donation will support emergency response efforts, including the distribution of food, water, shelter, and medical supplies to disaster-affected areas.",
     "price": 1200
   },
   {
+    "id": 9,
     "picture": "https://i.ibb.co/ZBm08zs/Art-and-Culture-Preservation.jpg",
     "title": "Art and Culture Preservation",
     "category": "Arts",
@@ -90,6 +99,7 @@
     "price": 200
   },
   {
+    "id": 10,
     "picture": "https://i.ibb.co/7Sjn26W/smiley-woman-spending-time-with-cute-rescue-dogs-shelter.jpg",
     "title": "Animal Welfare Program",
     "category": "Environment",
@@ -100,6 +110,7 @@
     "price": 700
   },
   {
+    "id": 11,
     "picture": "https://i.ibb.co/TbRsCVF/Youth-Development-Initiative.jpg",
     "title": "Youth Development Initiative",
     "category": "Education",
@@ -110,6 +121,7 @@
     "price": 800
   },
   {
+    "id": 12,
     "picture": "https://i.ibb.co/0fw9CjR/Elderly-Care-Support.jpg",
     "title": "Elderly Care Support",
     "category": "Health",
