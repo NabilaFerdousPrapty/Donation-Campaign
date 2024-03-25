@@ -1,123 +1,122 @@
 [
-    {
-      "picture": "https://i.ibb.co/HrGj8wk/Donation-for-education.jpg",
-      "title": "Donation for Education",
-      "category": "Education",
-      "category_bg": "#FF5733",
-      "card_bg": "#F7DC6F",
-      "text_button_bg": "#2E86C1",
-      "description": "Help provide education to underprivileged children.",
-      "price": 1000
-    },
-    {
-      "picture": "https://i.ibb.co/TbRsCVF/Youth-Development-Initiative.jpg",
-      "title": "Support Wildlife Conservation",
-      "category": "Environment",
-      "category_bg": "#58D68D",
-      "card_bg": "#FAD7A0",
-      "text_button_bg": "#CB4335",
-      "description": "Contribute to the protection of endangered species and their habitats.",
-      "price": 400
-    },
-    {
-      "picture": "https://i.ibb.co/6vyJT5f/Healthcare-for-All.jpg",
-      "title": "Healthcare for All",
-      "category": "Health",
-      "category_bg": "#85C1E9",
-      "card_bg": "#D4E157",
-      "text_button_bg": "#E74C3C",
-      "description": "Provide access to quality healthcare services to those in need.",
-      "price": 2000
-    },
-    {
-      "picture": "https://i.ibb.co/x8MvqrP/Food-for-the-Hungry.jpg",
-      "title": "Food for the Hungry",
-      "category": "Food",
-      "category_bg": "#F4D03F",
-      "card_bg": "#AED6F1",
-      "text_button_bg": "#27AE60",
-      "description": "Help feed families facing hunger and malnutrition.",
-      "price": 500
-    },
-    {
-      "picture": "https://i.ibb.co/xCQ2Btc/Shelter-for-Homeless.jpg",
-      "title": "Shelter for Homeless",
-      "category": "Social Welfare",
-      "category_bg": "#EC7063",
-      "card_bg": "#F0B27A",
-      "text_button_bg": "#5DADE2",
-      "description": "Provide safe shelter and housing assistance to homeless individuals.",
-      "price": 1500
-    },
-    {
-      "picture": "https://i.ibb.co/pwHF8f3/Clean-Water-Initiative.jpg",
-      "title": "Clean Water Initiative",
-      "category": "Environment",
-      "category_bg": "#76D7C4",
-      "card_bg": "#F9E79F",
-      "text_button_bg": "#AF7AC5",
-      "description": "Support projects to provide clean and safe drinking water to communities.",
-      "price": 200
-    },
-    {
-      "picture": "https://i.ibb.co/GQMQ0Qz/Empowerment-for-Women.jpg",
-      "title": "Empowerment for Women",
-      "category": "Social Welfare",
-      "category_bg": "#BB8FCE",
-      "card_bg": "#F5B7B1",
-      "text_button_bg": "#7D3C98",
-      "description": "Promote gender equality and empower women through education and skill development.",
-      "price": 500
-    },
-    {
-      "picture": "https://i.ibb.co/6w9CD08/3954.jpg",
-      "title": "Emergency Relief Fund",
-      "category": "Disaster Relief",
-      "category_bg": "#D2B4DE",
-      "card_bg": "#A9DFBF",
-      "text_button_bg": "#E6B0AA",
-      "description": "Provide immediate assistance to communities affected by natural disasters.",
-      "price": 1200
-    },
-    {
-      "picture": "https://i.ibb.co/ZBm08zs/Art-and-Culture-Preservation.jpg",
-      "title": "Art and Culture Preservation",
-      "category": "Arts",
-      "category_bg": "#F5CBA7",
-      "card_bg": "#D7BDE2",
-      "text_button_bg": "#85C1E9",
-      "description": "Support initiatives to preserve and promote art, heritage, and cultural traditions.",
-      "price": 200
-    },
-    {
-      "picture": "https://i.ibb.co/7Sjn26W/smiley-woman-spending-time-with-cute-rescue-dogs-shelter.jpg",
-      "title": "Animal Welfare Program",
-      "category": "Environment",
-      "category_bg": "#73C6B6",
-      "card_bg": "#FAD7A0",
-      "text_button_bg": "#CB4335",
-      "description": "Help care for and protect animals from cruelty and exploitation.",
-      "price": 700
-    },
-    {
-      "picture": "https://i.ibb.co/TbRsCVF/Youth-Development-Initiative.jpg",
-      "title": "Youth Development Initiative",
-      "category": "Education",
-      "category_bg": "#F7DC6F",
-      "card_bg": "#58D68D",
-      "text_button_bg": "#FF5733",
-      "description": "Support programs that empower young people and provide them with opportunities for growth and development.",
-      "price": 800
-    },
-    {
-      "picture": "https://i.ibb.co/0fw9CjR/Elderly-Care-Support.jpg",
-      "title": "Elderly Care Support",
-      "category": "Health",
-      "category_bg": "#D98880",
-      "card_bg": "#F9E79F",
-      "text_button_bg": "#7D3C98",
-      "description": "Provide assistance and care services to elderly individuals to enhance their quality of life.",
-      "price": 1000
-    }
-  ]
-  
+  {
+    "picture": "https://i.ibb.co/HrGj8wk/Donation-for-education.jpg",
+    "title": "Donation for Education",
+    "category": "Education",
+    "category_bg": "#FF5733",
+    "card_bg": "#F7DC6F",
+    "text_button_bg": "#2E86C1",
+    "description": "Help provide education to underprivileged children. Your contribution will go towards funding schools, providing educational materials, and supporting teachers in marginalized communities.",
+    "price": 1000
+  },
+  {
+    "picture": "https://i.ibb.co/rm5msHq/Support-Wildlife-Conservation.jpg",
+    "title": "Support Wildlife Conservation",
+    "category": "Environment",
+    "category_bg": "#58D68D",
+    "card_bg": "#FAD7A0",
+    "text_button_bg": "#CB4335",
+    "description": "Contribute to the protection of endangered species and their habitats. Your donation will support wildlife conservation efforts, including habitat restoration, anti-poaching initiatives, and public awareness campaigns.",
+    "price": 400
+  },
+  {
+    "picture": "https://i.ibb.co/6vyJT5f/Healthcare-for-All.jpg",
+    "title": "Healthcare for All",
+    "category": "Health",
+    "category_bg": "#85C1E9",
+    "card_bg": "#D4E157",
+    "text_button_bg": "#E74C3C",
+    "description": "Provide access to quality healthcare services to those in need. Your support will help fund medical facilities, purchase medical equipment, and cover treatment costs for individuals who cannot afford healthcare.",
+    "price": 2000
+  },
+  {
+    "picture": "https://i.ibb.co/x8MvqrP/Food-for-the-Hungry.jpg",
+    "title": "Food for the Hungry",
+    "category": "Food",
+    "category_bg": "#F4D03F",
+    "card_bg": "#AED6F1",
+    "text_button_bg": "#27AE60",
+    "description": "Help feed families facing hunger and malnutrition. Your donation will support food distribution programs, community kitchens, and nutrition education initiatives to alleviate hunger and improve food security.",
+    "price": 500
+  },
+  {
+    "picture": "https://i.ibb.co/xCQ2Btc/Shelter-for-Homeless.jpg",
+    "title": "Shelter for Homeless",
+    "category": "Social Welfare",
+    "category_bg": "#EC7063",
+    "card_bg": "#F0B27A",
+    "text_button_bg": "#5DADE2",
+    "description": "Provide safe shelter and housing assistance to homeless individuals. Your contribution will help fund shelters, provide rental assistance, and support programs to address the root causes of homelessness.",
+    "price": 1500
+  },
+  {
+    "picture": "https://i.ibb.co/pwHF8f3/Clean-Water-Initiative.jpg",
+    "title": "Clean Water Initiative",
+    "category": "Environment",
+    "category_bg": "#76D7C4",
+    "card_bg": "#F9E79F",
+    "text_button_bg": "#AF7AC5",
+    "description": "Support projects to provide clean and safe drinking water to communities. Your donation will fund water purification systems, well construction, and water sanitation programs to ensure access to clean water for all.",
+    "price": 200
+  },
+  {
+    "picture": "https://i.ibb.co/GQMQ0Qz/Empowerment-for-Women.jpg",
+    "title": "Empowerment for Women",
+    "category": "Social Welfare",
+    "category_bg": "#BB8FCE",
+    "card_bg": "#F5B7B1",
+    "text_button_bg": "#7D3C98",
+    "description": "Promote gender equality and empower women through education and skill development. Your support will fund programs that provide education, vocational training, and economic opportunities for women and girls.",
+    "price": 500
+  },
+  {
+    "picture": "https://i.ibb.co/6w9CD08/3954.jpg",
+    "title": "Emergency Relief Fund",
+    "category": "Disaster Relief",
+    "category_bg": "#D2B4DE",
+    "card_bg": "#A9DFBF",
+    "text_button_bg": "#E6B0AA",
+    "description": "Provide immediate assistance to communities affected by natural disasters. Your donation will support emergency response efforts, including the distribution of food, water, shelter, and medical supplies to disaster-affected areas.",
+    "price": 1200
+  },
+  {
+    "picture": "https://i.ibb.co/ZBm08zs/Art-and-Culture-Preservation.jpg",
+    "title": "Art and Culture Preservation",
+    "category": "Arts",
+    "category_bg": "#F5CBA7",
+    "card_bg": "#D7BDE2",
+    "text_button_bg": "#85C1E9",
+    "description": "Support initiatives to preserve and promote art, heritage, and cultural traditions. Your donation will help fund museums, art galleries, cultural events, and educational programs to ensure the preservation of our rich cultural heritage.",
+    "price": 200
+  },
+  {
+    "picture": "https://i.ibb.co/7Sjn26W/smiley-woman-spending-time-with-cute-rescue-dogs-shelter.jpg",
+    "title": "Animal Welfare Program",
+    "category": "Environment",
+    "category_bg": "#73C6B6",
+    "card_bg": "#FAD7A0",
+    "text_button_bg": "#CB4335",
+    "description": "Help care for and protect animals from cruelty and exploitation. Your support will fund animal rescue operations, veterinary care, shelter facilities, and advocacy campaigns to improve animal welfare standards.",
+    "price": 700
+  },
+  {
+    "picture": "https://i.ibb.co/TbRsCVF/Youth-Development-Initiative.jpg",
+    "title": "Youth Development Initiative",
+    "category": "Education",
+    "category_bg": "#F7DC6F",
+    "card_bg": "#58D68D",
+    "text_button_bg": "#FF5733",
+    "description": "Support programs that empower young people and provide them with opportunities for growth and development. Your donation will fund educational scholarships, mentorship programs, leadership training, and skill-building workshops for youth.",
+    "price": 800
+  },
+  {
+    "picture": "https://i.ibb.co/0fw9CjR/Elderly-Care-Support.jpg",
+    "title": "Elderly Care Support",
+    "category": "Health",
+    "category_bg": "#D98880",
+    "card_bg": "#F9E79F",
+    "text_button_bg": "#7D3C98",
+    "description": "Provide assistance and care services to elderly individuals to enhance their quality of life. Your donation will support elderly care homes, healthcare services, and community outreach programs to address the needs of senior citizens.",
+    "price": 1000
+  }
+]
